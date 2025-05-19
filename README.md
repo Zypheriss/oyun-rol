@@ -38,7 +38,6 @@ Oyun tutkunları için tasarlanmış, Discord sunucularınıza eğlence ve düze
 
 ### 🧾 **Gereksinimler**  
 - [Node.js](https://nodejs.org) (v16 ve üzeri)  
-- [Discord.js](https://discord.js.org) (v14)  
 
 ---
 
@@ -62,8 +61,3 @@ Discord sunucumuzda **#öneriler** kanalını kullanın
 [⬆ Yukarı dön](#-oyun-rol-botu)
 ---
 
-### 🚀 **Botun Çalıştırılması**  
-1. **Depoyu klonlayın**:  
-   ```bash
-   git clone https://github.com/Zypheris/oyun-rol.git
-   cd oyun-rol
